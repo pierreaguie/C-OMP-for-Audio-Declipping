@@ -1,4 +1,11 @@
-soundfile
-librosa
+numpy
+matplotlib.pyplot
+tqdm
+scipy.signal
+scipy.optimize
 cvxpy
-scipy
+IPython.display
+
+soundfile  
+librosa 
+os
