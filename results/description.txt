@@ -1,0 +1,1 @@
+A folder containing the SNR and SDR computations for each instrument, for different clipping values.
