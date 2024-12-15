@@ -1,0 +1,1 @@
+A folder containing the processed sounds (downsample + trimmed + normalized)
