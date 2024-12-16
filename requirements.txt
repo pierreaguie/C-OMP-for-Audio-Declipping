@@ -1,11 +1,9 @@
 numpy
-matplotlib.pyplot
+matplotlib
 tqdm
-scipy.signal
-scipy.optimize
+scipy
 cvxpy
-IPython.display
-
+IPython
 soundfile  
 librosa 
 os
